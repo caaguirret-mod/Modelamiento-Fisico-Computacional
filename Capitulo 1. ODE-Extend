@@ -1,0 +1,10 @@
+Programa para la solución de ODE
+
+Taylor y truncamiento
+Metodo de Euler
+Metodo de Euler Mejorado
+RK 2 (Runge-Kutta segundo orde)
+RK 4 (Runge-Kutta cuarto orden)
+Metodo de Heun
+Metodo de Raldston
+Errores y cálculos de truncamiento y estabilidad.
