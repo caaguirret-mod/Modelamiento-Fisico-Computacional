@@ -1,0 +1,5 @@
+ &PROJWFC
+                     degauss = 0.02 ,
+                      DeltaE = 0.01 ,
+ /
+
